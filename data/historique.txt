@@ -1,0 +1,1 @@
+1|Première|50.00|1|2024-12-15|Paris|Lyon|Terminé|12345

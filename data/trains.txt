@@ -1,0 +1,3 @@
+1|Paris|Lyon|08:00|10:00|100|100
+2|Marseille|Nice|09:30|11:00|80|80
+3|Bordeaux|Toulouse|07:00|09:15|120|119

@@ -1,0 +1,12 @@
+# Ignorer les binaires compilés
+TGVReservation
+*.o
+
+# Ignorer les fichiers temporaires
+*.log
+*.tmp
+*.swp
+
+# Ignorer les dossiers de l'éditeur
+.vscode/
+.idea/
